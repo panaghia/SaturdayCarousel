@@ -5,6 +5,7 @@ Provides a class for setting-up an easy, convention over configuration, product 
 
 How to use
 ----------
+
 window.addEvent('domready', function()
 {
    var saturday = new SaturdayCarousel(); 
